@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e09569ca.css",
+    "main.js": "/static/js/main.010a3a1b.js",
+    "static/js/787.0897a3e9.chunk.js": "/static/js/787.0897a3e9.chunk.js",
+    "static/media/recarga.png": "/static/media/recarga.25ade652b5db914631bc.png",
+    "static/media/pepperoni.jpg": "/static/media/pepperoni.fb455e4d3eb7118e5a1f.jpg",
+    "static/media/saboresfondo.jpg": "/static/media/saboresfondo.fe8708cdf75d1fd859bd.jpg",
+    "static/media/footttt.jpg": "/static/media/footttt.a763d1c54acc514aa01b.jpg",
+    "static/media/logo2png.png": "/static/media/logo2png.d559a73543bbf6a304e5.png",
+    "static/media/logo1png.png": "/static/media/logo1png.6a6d66bb5db13249ce3c.png",
+    "index.html": "/index.html",
+    "main.e09569ca.css.map": "/static/css/main.e09569ca.css.map",
+    "main.010a3a1b.js.map": "/static/js/main.010a3a1b.js.map",
+    "787.0897a3e9.chunk.js.map": "/static/js/787.0897a3e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e09569ca.css",
+    "static/js/main.010a3a1b.js"
+  ]
+}
